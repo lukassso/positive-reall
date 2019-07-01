@@ -1,0 +1,42 @@
+{
+  "name": "bootstrap-sample",
+  "version": "1.0.0",
+  "description": "sample project with bootstrap and BEM methodology",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukassso/bootstrap-sample.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "gulp",
+    "4.0"
+  ],
+  "author": "lk",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "https://github.com/lukassso/bootstrap-sample.git#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.8.1",
+    "bootstrap": "4.3.1",
+    "jquery": "3.3.1",
+    "jquery.easing": "^1.4.1",
+    "simple-line-icons": "^2.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.3",
+    "del": "4.0.0",
+    "gulp": "4.0.0",
+    "gulp-autoprefixer": "6.0.0",
+    "gulp-clean-css": "4.0.0",
+    "gulp-header": "2.0.7",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.2",
+    "merge-stream": "^1.0.1"
+  }
+}
